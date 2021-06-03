@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The admonisher admonished in, a modest and impartial narrative of the proceedings of the ecclesiastical court, against James Jones citizen of London, of the parish of St. Bartholomew Exchange. Being a true account of matter of fact, from his citation to Doctors Commons, to their taking out the writ of excommunicato capiendo against him. And also an account of the several ways made use of for the taking off the said writ. With useful observations upon several particular passages and statutes. Dedicated to the worshipful Doctor Pinfold.</title>
+         </titleStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01474</idno><idno type="EEBO-CITATION">52211643</idno>
+  <idno type="VID">175377</idno>
+  <idno type="EEBO-PROQUEST">2240893652</idno>
+  
+            <idno type="STC">Wing A592</idno>
+            <idno type="STC">ESTC R225162</idno>
+            <idno type="OCLC">52211643</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B01474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175377)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2731:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The admonisher admonished in, a modest and impartial narrative of the proceedings of the ecclesiastical court, against James Jones citizen of London, of the parish of St. Bartholomew Exchange. Being a true account of matter of fact, from his citation to Doctors Commons, to their taking out the writ of excommunicato capiendo against him. And also an account of the several ways made use of for the taking off the said writ. With useful observations upon several particular passages and statutes. Dedicated to the worshipful Doctor Pinfold.</title>
+                  <author>Jones, James, fl. 1683-1684.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition corrected and amended.</edition>
+               </editionStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Malthus at the Sun in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>[4] p: To the right worshipful Thomas Pinfold, doctor of laws, and official to the Arch-Deacon of London. Signed: James Jones.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jones, James, fl. 1683-1684 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Excommunication --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175377:1"/>
+            <p>
+               <hi>The Admonisher Admonished:</hi> IN, A MODEST and IMPARTIAL NARRATIVE Of the Proceedings of the <hi>Ecclesiastical Court,</hi> AGAINST <hi>JAMES JONES</hi> Citizen of <hi>LONDON,</hi> Of the Parish of St. <hi>Bartholomew Exchange.</hi>
+            </p>
+            <p>Being a True Account of matter of Fact, from his Citation to <hi>Doctors Commons,</hi> to their taking out the Writ of <hi>Excommunicato Capiendo</hi> against him.</p>
+            <p>AND ALSO An Account of the several Ways made use of for the taking off the said Writ.</p>
+            <p>WITH Useful Observations Upon several Particular Passages and Statutes.</p>
+            <p>Dedicated to the Worshipful Doctor <hi>Pinfold.</hi>
+            </p>
+            <p>
+               <hi>The Second Edition Corrected and Amended.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Isa. 59.15.</hi>
+               </bibl>
+               <p>Yea, Truth faileth, and he that departeth from Evil maketh himself a Prey; and the Lord saw it, and it displeased him that there was no Judgment.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Malthus</hi> at the Sun in the <hi>Poultrey.</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:175377:2"/>
+            <pb facs="tcp:175377:2"/>
+            <head>To the Right Worshipful <hi>THOMAS PINFOLD,</hi> Doctor of Laws, and Official to the Arch-Deacon of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Worshipful Doctor,</salute>
+            </opener>
+            <p>AFter those Respects due to you, this is humbly to entreat you with patience to read and consider this following Narrative of matters between you and my self, in which I have been careful to give a true Account, without any bad Language, or any bitter Reflections, which are too common in matters of this kind: My only design in this is to discover past Proceedings, as well on my own part as on yours; that so such as may hereafter be concerned with <hi>Ecclesiastical Courts,</hi> as I have been with yours, may by these Proceedings learn either to forbear to do as I have done, or else improve the same to do better, or find out some other way more for their own Advantage.</p>
+            <p>And for as much as your Worship hath loaded a Multitude of his Majesties Protestant Subjects with Admonitions and Excommunications (and with the Writ <hi>de Excom<g ref="char:EOLhyphen"/>municato Capiendo</hi>) to force them into a Jail, if they do not pay you great Sums of money for not obeying your Admonitions:</p>
+            <p>I beseech you to receive a few Protestant Admonitions agreeable to the Holy Scripture.</p>
+            <p n="1">
+               <hi>I.</hi> That you being a Doctor and Judge of a Court called Spiritual, it highly concern<g ref="char:EOLhyphen"/>eth you to see that you are a true Spiritual man, not walking according to the Lusts of the Flesh. Spiritual persons ought to maintain Spiritunl practices, <hi>Rom. 8.1.</hi>
+            </p>
+            <p n="2">
+               <hi>II.</hi> Take heed that you do not force any Persons by your Admonition to come unto the holy Communion, who are unholy in their Conversation; and that they may escape your Excommunication, Venture to eat and Drink their own Damnation. <hi>1 Cor. 11.20.</hi>
+            </p>
+            <p n="3">
+               <hi>III.</hi> Take heed you do not force the Godly to partake with the Ʋngodly, least you make them Partakers of other mens Sins; but purge out the old Leaven that you may be a new Lump; <hi>for a little Leaven leaveneth the whole Lump, 1</hi> Cor. <hi>5.6, 7, 8, 9.</hi>
+            </p>
+            <p n="4">
+               <hi>IV.</hi> Take heed you do not that to others, which you would not have them do to you, <hi>viz.</hi> You would not be willing the Protestant Dissenters (considered as Independents, Presbyterians, or those falsly called Anabaptists) should compel you to take the Holy Sacrament amongst any of them, <hi>Mat. 5.12.</hi> Therefore why should you do the like?</p>
+            <p n="5">
+               <hi>V.</hi> Take heed that you do not force Persons to the holy Sacrament against their Wills, seeing God must be served with a perfect heart, and with a willing mind, <hi>1 Chron. 28.9.</hi>
+            </p>
+            <p n="6">
+               <hi>VI.</hi> Take heed you do not force Persons to the Holy Sacrament, who have not a right unto it; or such as for fear of your further Proceedings may come unto it con<g ref="char:EOLhyphen"/>trary to their own Consciences, of whom it may be said as <hi>Paul</hi> said to the <hi>Corinthian</hi> Professors, <hi>1</hi> Cor. <hi>11.20. This is not to eat the Lords Supper;</hi> for the abusing of Gods Ordinance is a losing Gods Ordinance, to the Abusers of it, and it may be said, Such eat mans Dinner, rather then the Lords Supper.</p>
+            <p n="7">
+               <hi>VII.</hi> Take heed that whilst you proceed to handling Persons about spiritual things, that you let your Proceedings be according to spiritual Rules contained in the Holy Scriptures, in which there is no Directions to inflict outward Penalties upon Persons for not performing of Spiritual Duties.</p>
+            <p n="8">
+               <hi>VIII.</hi> Take heed that you do not debase Religion in making Spiritual matters bow and Truckle unto Temporal matters, for base ends; and let not the Holy Sacrament be made a Qualification for keeping an Alehouse, or for being Electors of Magistrates; it is enough that men be Free-holders in the Country, or free-men and of the Livery in the City for such things.</p>
+            <p n="9">
+               <pb facs="tcp:175377:3"/>
+               <hi>IX.</hi> Take into your Consideration the many miseries that now attend a great num<g ref="char:EOLhyphen"/>ber of his Majesties good Subjects, some constrained to be as Prisoners, in their own Houses, others fled into the Countrey, others let their Houses, and put off their Trades, and others remove from those Parishes where they were prosecuted, in hopes to be more quiet elsewhere, and some are carried to Prison; and all by reason of your Proceedings.</p>
+            <p n="10">
+               <hi>X.</hi> Take heed that the Sighs and Cries of poor Women and Children, (who groan un<g ref="char:EOLhyphen"/>der this Distress) do not go up to the God of Compassion, and be returned against you as the Cause of them.</p>
+            <p n="11">
+               <hi>XI.</hi> Do not think it will be enough for you to say you have proceeded according to Law, (if you could prove that) but consider that the Ecclesiastical Doctors, and such as were called Spiritual Judges in Queen <hi>Maries</hi> days, had the same Plea for their Perse<g ref="char:EOLhyphen"/>cuting the poor Protestants.</p>
+            <p n="12">
+               <hi>XII.</hi> I Beseech you consider that the Non-Compliance of Protestant-Dissenters, in matters of Religion, as imposed by you, is not for want of Loyalty to his Majesty, but for fear they should corrupt Christianity.</p>
+            <p>And now worthy Sir, be not afraid to put your self upon a Tryal by this Christian Jury of Sober Admonitions, which are humbly and honestly Impannelled by</p>
+            <closer>
+               <signed>
+                  <hi>His Majesties Loyal Subject, and your VVorships Humble Servant,</hi> James Jones.</signed>
+            </closer>
+         </div>
+         <div type="example">
+            <head>A Famous Example for Ecclesiastical Doctors.</head>
+            <p>ANd now Doctor, because worthy Examples and good Patterns are sometimes more Prevalent then Admonitions and Precepts, I will humbly set before you the good Example of a Famous Doctor of Law, belonging to the Ecclesiastical Court in the famous City of <hi>Jerusalem:</hi>
+            </p>
+            <p>Who when the Dissenters and Non-Conformists of that day, were cited and brought before the said Ecclesiastical Court, and by the Authority thereof were decreed to be Excommunicated out of the Church, and out of the World also;</p>
+            <p>The aforesaid Doctor of Law favoured and defended the Cause of those poor Dissenters, by ma<g ref="char:EOLhyphen"/>king an excellent speech against the violent Proceedings of that Court; which take as followeth, as it is Recorded, not in Acts of Parliament, but in the Acts of the Apostles, <hi>Chapter 5.</hi>
+            </p>
+            <p>
+               <hi>Vers. 34.</hi> Then there stood up one in the Counsel, a Pharisee, named <hi>Gamaliel,</hi> a Doctor of Law, had in Reputation of all the People, and commanded to put the Apostles forth a little space.</p>
+            <p>
+               <hi>Vers. 35.</hi> And said unto them, Ye men of <hi>Israel,</hi> take heed to your selves, what ye intend to do as touching these men.</p>
+            <p>
+               <hi>Vers. 38.</hi> And now I say unto you, Refrain from these men, and let them alone, for if this Coun<g ref="char:EOLhyphen"/>sel or work be of men, it will come to nought.</p>
+            <p>
+               <hi>Vers. 39.</hi> But if it be of God ye cannot overthrow it, lest happily ye be found even to fight a<g ref="char:EOLhyphen"/>gainst God.</p>
+            <div type="question">
+               <head>A Sober Question Proposed.</head>
+               <p>Whether the aforesaid Doctor of Law belonging to that Ecclesiastical Court, who was a Pharisee and did thus favour those poor Dissenters; Or <hi>Saul,</hi> who also was a Pharisee, and did violently Prosecute those Non-Conformists, even to Imprisonment and Death, and caused some faint-hearted Professors to Blaspheme, that so they might escape those punishments that he inflicted upon many by that Authority which he received from the high Priest, who was Judge of the aforesaid Ecclesi<g ref="char:EOLhyphen"/>astical Court: Be the best Pattern and Example for a Spiritual Judge?</p>
+               <p>The Resolution shall be left for Doctor <hi>Pinfold,</hi> and all other violent Prosecutors of them that fear God to be considered and Resolved, as they will answer it before the Lord Chief Justice of the whole World, <hi>viz. The Lord Jesus Christ,</hi> Acts. <hi>17.31.</hi> Rom <hi>2.16.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="errata">
+            <p>
+               <hi>ERRATA. Page. 2. Line. 45. for Sir</hi> Thomas<hi>'s, Read St.</hi> Thomas<hi>'s.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:175377:3"/>
+            <head>
+               <hi>The Admonisher Admonished:</hi> OR A MODEST and IMPARTIAL NARRATIVE OF The late Proceedings of the Ecclesiastical-Court against JAMES JONES, <hi>&amp;c.</hi>
+            </head>
+            <p>THe Subject of the Ensuing Narrative being chiefly matter of Fact, and the Design of it being only to give the World an Account of the Pro<g ref="char:EOLhyphen"/>ceedings of the Ecclesiastical Court against several hundred of his Majesties Subjects, and in particular against <hi>James Jones;</hi> I shall without any Preface acquaint you, That upon the 16th of <hi>November</hi> last there was a Citation left at his House, by an Ecclesiastical Officer, the form where<g ref="char:EOLhyphen"/>of was that which followeth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To Mr. <hi>Jones,</hi> of the Parish of St. <hi>Bartholomew Exchange.</hi>
+                  </head>
+                  <p>I <hi>Cite you by vertue of a Process under Seal, to appear before the Right Wor<g ref="char:EOLhyphen"/>shipful</hi> Thomas Pinfold, <hi>Doctor of Laws, and Official to the Arch-Deacon of</hi> London, <hi>or his Lawful Surrogate, or any other Competent Iudge in that behalf, in the Parish-Church or Tabernaccle of St.</hi> Mary Magdalen Old-Fish-street London, <hi>On the 17th day of</hi> November, <hi>between the Hours of Nine and Eleven in the Forenoon of the same day, then and there to answer to a presentment given in and Exhibited against you by the Church-Wardens of your said Parish, as by Law you are bound. And further to do and Receive as by Law and Iustice shall Appertain.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Francis Speke,</hi> Officer.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>From this Citation the said <hi>Jones</hi> doth observe these following things, and desireth others to consider well and improve them.</p>
+            <p n="1">1. That this Citation is not in the Kings Name, (only I <hi>Cite you.</hi>)</p>
+            <p n="2">2. Though there is Mention made of a Process under Seal, by vertue of which the said <hi>Jones</hi> was Cited, it is not said, <hi>By vertue of a Commission from his Majesty,</hi> given to Impower that Court so to proceed.</p>
+            <p n="3">3. Though there is mention made of <hi>Law and Justice</hi> in the said Citation, that is no Demonstration of the Legallity of the aforesaid Court; and how much of <hi>Law and Justice</hi> hath been managed there, let those Judge that have been
+<pb n="2" facs="tcp:175377:4"/>handled in the said Court, and what may yet be expected of Law and Justice must be very patiently waited for, by those that suffer.</p>
+            <p>The next day, being the 17th day of <hi>November</hi> aforesaid, the said <hi>Jones</hi> with others of his Protestant Neighbours, did appear before the said Doctor <hi>Pinfold,</hi> thinking thereby to avoid a strange thing called <hi>Contumacy</hi> or <hi>Contempt</hi> in that Court; Supposing he should have had further Citations, before any further Proceedings; but he found himself greatly mistaken, for the said Doctor was very nimble with the honest Neighbours of the said <hi>Jones;</hi> as they were parti<g ref="char:EOLhyphen"/>cularly called by their Names, and presently concluded them Guilty of the matters in the Church-Wardens Presentment, <hi>viz.</hi> of not coming to Church, and not receiving the Sacrament, without Positive Proof, of those matters by Persons appearing Face to Face; though the truth is, the said Doctor did not put any of those before him to a cense themselves, but did presently proceed to Admonish them, <hi>To come to Church, and to take the Sacrament in their own Pa<g ref="char:EOLhyphen"/>rish Church, and bring a Certificate, they had so done from the Doctor of the said Parish, by the 6th day of December following.</hi> And when most of the said <hi>Jones</hi>'s Neighbours had been called, the Clark called for one Mr. <hi>Jones;</hi> the said <hi>Jones</hi> Replyed, <hi>His name was</hi> Jones, <hi>and was come to see whether he was the man intended in the presentment.</hi>
+            </p>
+            <p>The Doctor concluded that, (because the Citation was left at his house:) <hi>Jones</hi> confessed there was a Citation left at his house, but that was no Proof that he was the same Person intended; Especially considering that his <hi>Whole Name</hi> was not in the Citation, only Mr. <hi>Jones,</hi> and there might be other <hi>Jones</hi>'s in the said Parish.</p>
+            <p>Then the Doctor inquired of the Apparitor, who said that one of the Church-Wardens did direct him to the house of the said <hi>Jones,</hi> where he left the Cita<g ref="char:EOLhyphen"/>tion and said he was the same <hi>Jones</hi> in the Presentment.</p>
+            <p>
+               <hi>Jones</hi> then told the Doctor, <hi>That if he were the Person, he would not needlesly contend; but however, he thought the Citation was not legally served, it being not given into his own hand, neither had he seen the Seal of the Court mentioned in the Citation.</hi>
+            </p>
+            <p>To which Doctor <hi>Pinfold</hi> Replying, Allowed that it was not a Legal Ci<g ref="char:EOLhyphen"/>tation, and that if the said <hi>Jones</hi> had not then appeared, the Court would have sworn their Officer, who if upon Oath he had said he could not find the said <hi>Jones,</hi> then they would have set up a <hi>Viis &amp; modis</hi> upon the Church door, or upon his own door, requiring him to appear in the Ecclesiastical Court, but being the said <hi>Jones</hi> did appear the Citation was at an end, and there was no need of any more Citations,</p>
+            <p>Then the said <hi>Jones</hi> perceived that he was got into a Trap, by being so ready to go with his honest Neighbours to that Court, upon a Supposition that the Citation being not served upon his Person, nor his full Name in, the Citation was not right, and therefore thought he should have had a Dismission for that time till a new Citation was sent and served upon him; he very well knowing that the Ecclesiastical Courts did formerly proceed very slowly; but it seems St. <hi>Thomas</hi>'s day was near at hand, for the Citizens of <hi>London</hi> to choose a <hi>New Common Council,</hi> and it was high time to hasten Excommunications, thereby if it were possible, to prevent the Priviledge of such Persons in their Election of that Honourable Court of Common Council; but this is a happy<g ref="char:EOLhyphen"/>ness to the Loyal City of <hi>London,</hi> that the Citizens of <hi>London</hi> do understand the Statute Law, by which the Kings Power and the Peoples Priviledges is main<g ref="char:EOLhyphen"/>tained, though they may not so well understand the Roaring Cannons of Ec<g ref="char:EOLhyphen"/>clesiastical
+<pb n="3" facs="tcp:175377:4"/>Courts, <hi>viz.</hi> The Canon Law; and now the said <hi>Jones</hi> doth hum<g ref="char:EOLhyphen"/>bly desire his fellow Protestants to bear with this Digression, and not count it a Transgression; but he thinks it advisable that such as are not cited with a Ci<g ref="char:EOLhyphen"/>tation upon their own Persons, need not make so much haste to the Ecclesiasti<g ref="char:EOLhyphen"/>cal Courts as to break their shins. And so the said <hi>Jones</hi> will return to his so<g ref="char:EOLhyphen"/>ber Discourse with Doctor <hi>Pinfold.</hi>
+            </p>
+            <p>Then the said Doctor soberly proceeded, telling the said <hi>Jones</hi> that he was under the same Circumstances with his Neighbours, viz. <hi>Presented by the Church-Wardens, for not coming to his Parish Church, and for not receiving the Sacrament;</hi> and added, <hi>I think it in vain to ask when you were at Church, but I Will hear what you have to say.</hi>
+            </p>
+            <p>Then the said <hi>Jones</hi> Replyed, <hi>Doctor, I perceive you will deal with me as with my Neighbours, presently Proceed to an Admonition.</hi>
+            </p>
+            <p>The Doctor said, <hi>You may be sure of that.</hi>
+            </p>
+            <p>
+               <hi>Jones</hi> replied, Sir, I desire you to hear me a few words, before you proceed to Admonition; for I am not come to Provoke you, and I hope you will not Oppress me.</p>
+            <p>Then the Doctor consented to hear what <hi>Jones</hi> had to say.</p>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Sir, I am ready to receive and comply with an Admonition to receive the Sacrament, provided you will give me such an Admonition, and in such a spirit as the Apostle <hi>Paul</hi> gave in his days, (at this word the Doctor looked somewhat strangely, as if <hi>Pauls</hi> Admonitions were strange things in that Court; but <hi>Jones</hi> went on, saying that) <hi>Paul</hi> did Admonish Persons to examine themselves and come to that Ordinance, and in another place, <hi>Paul</hi> did Admo<g ref="char:EOLhyphen"/>nish Persons to take heed they did not partake with Whore-mongers, and Drunkards, and Railers; in the first Admonition, Persons are taught to look after their <hi>Own Fitness;</hi> and in the other Admonition Persons are taught to take heed of the <hi>Ʋnfitness of others,</hi> and such an Admonition I am willing to Receive.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>You are a very Uncharitable man; what do you Judge your Neigh<g ref="char:EOLhyphen"/>bours to be Whore-mongers?</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Sir, I do but speak what <hi>Paul</hi> said a great while ago, which is Instru<g ref="char:EOLhyphen"/>ction to us now; and though I will not say, my Neighbours are Whore-mon<g ref="char:EOLhyphen"/>gers, yet this I will say, and appeal to your Conscience, that there is some Persons mentioned in one of those Scriptures, in most, if not in all the Parishes such as call upon God to damn them; for Wickedness is grown bold in all our Streets.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor</speaker>
+               <p>Sir you must look to your own self.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Sir, that I learn from the first Admonition of <hi>Paul;</hi> and must take heed I do not communicate with wicked persons, from the other Admonition of <hi>Paul.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>I Admonish, I Admonish you to come to Church, and to take the Sacrament in your own Parish-Church, between this and the 6th day of <hi>De<g ref="char:EOLhyphen"/>cember</hi> next, and bring a Certificate from the Doctor of your Parish, that you have so done.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Sir, seeing you have proceeded to admonish me, I pray tell me whe<g ref="char:EOLhyphen"/>ther you Admonish me as a Minister, or as a Magistrate?</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>I Admonish you as a Magistrate.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Sir, then I suppose you have the Kings Commission for your thus pro<g ref="char:EOLhyphen"/>ceeding with me and my Neighbours.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>What Sir! Do you call the Authority of this Court into Question?</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:175377:5"/>
+               <speaker>Jones.</speaker>
+               <p>Sir, I rather conclude it; if you be a Magistrate, then you must have a Commission for what you do, and I desire to see it.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>Now I see what you are, if you had Opportunity you would question the Kings Authority or Title to the Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Sir, that is unworthily spoken of you, and though you be a greater man than I am, I cannot bear this, it is Unsufferable, and you cannot answer this thing. Sir do you sit here as a Judge of a Court; and insinuate so base an Accusation against any of his Majesties Liege People? I would have you to know, and I do here declare, that I do own the Kings Authority, as King of this Realm; and if you have the Kings Commission for this Court, show it me, and I will own the Kings Authority in you.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>Sir, I will not show it you.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>I have humbly desired it, but now I demand you to show me the Kings Commission for your keeping this Court, for I desire to Reverence the Kings Authority whereever I see it, and I will Reverence you as the Kings Commissioner, if you show your Commission.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>I do not use to carry it in my Pocket, I will not show it you. Clark go on.</p>
+            </sp>
+            <sp>
+               <speaker>Jones</speaker>
+               <p>Well Sir, Then I demand a Copy of my Libel; and time to plead to it.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>I cannot deny you a Copy, you may have it at the Registers Office.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Sir I demand time to plead to it when I have it.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>Sir I will not give you time.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>What Sir will you Choak me with the Sacrament? I do own and Re<g ref="char:EOLhyphen"/>verence the Sacrament as a holy thing, and an Ordinance of God, but you ought not to force it down my Throat after this manner at your Pleasure; this is not the way to bring People to a Right Conformity to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that should be done by good Arguments and gentle Reasoning.</p>
+               <p>Then the Doctor bid the Clark go on, and call another Person saying.</p>
+               <p>
+                  <hi>I have had talk enough with this man.</hi> And another being called, the Doctor after a very few words, proceeded to Admonition, and dismist him.</p>
+               <p>
+                  <hi>Jones</hi> then spake to the Doctor again; saying Doctor, I beseech you let me have a few gentle words with you in coolness of Spirit.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>Why I was not angry.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Truly Sir, you seemed to be angry just now, however I do now in<g ref="char:EOLhyphen"/>treat a kindness of you.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>Speak on, what is it?</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>Sir I intreat you to tell me the worst of this matter, what will be my danger if through ignorance, or neglect, or any thing else, I should not take the Sacrament at the time appointed by you.</p>
+               <p>A Gentleman standing by the Doctor, answered, <hi>You must go and ask your Councel that question.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>What need that Sir, seeing I am before the Judge of this Court who can tell me all the Proceedings of his own Court? And therefore Doctor, I pray tell me, that I may not be an ignorant Offendor, nor an ignorant Sufferer, an Obstinate one I will not be.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>Then I will tell you, if you do not come to Church and take the Sacrament by the time appointed, you will be Excommunicated, and afterwards laid up in Jail.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>But pray Doctor, is there any such Law of God in the New Testa<g ref="char:EOLhyphen"/>ment, concerning the Sacrament, to lay up People in Jail for not taking of it?</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:175377:5"/>
+               <speaker>Doctor.</speaker>
+               <p>I have done with you. And so bid the Clark go on, and call some bo<g ref="char:EOLhyphen"/>dy else. And thus the matter ended for that day.</p>
+            </sp>
+            <p>Now the said <hi>Jones</hi> further saith, That he could not see any marks of Honour or Power belonging to a Court held by the Kings Commission, for he could not see the Kings Arms in the said Tabernacle; and whether the former Dis<g ref="char:EOLhyphen"/>course were Pertinent or Impertinent, is submitted to the Consideration and censure of all sober Persons when they have well considered of the Statute of the 1st. of <hi>Edward</hi> the 6th. <hi>Chap.</hi> 2. which take as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="statute">
+                        <p>
+                           <hi>ANd whereas the Arch-Bishops and Bishops, and other Spiritual Persons in this Realm do use to make and send out their Summons, Citations, and other Processes, in their own names, and in such Form and manner as was used in the time of the Usurped Power of the Bishop of</hi> Rome, <hi>contrary to the Form and Order of the Summons and Process of the Common-Law used in this Realm, seeing that all Authority of Iu<g ref="char:EOLhyphen"/>risdiction Spiritual and Temporal is derived and deducted from the Kings Maiesty as Supream Head of these Churches and Realms of</hi> England, <hi>and</hi> Ireland; <hi>(and so, iustly acknowledged by the Clergy of the said Realms) That all Courts Ecclesiastical within the said two Realms be kept by no other Power or Authority, either Forreign or within the Realm, but by the Authority of his most excellent Majesty, Be it therefore further Enacted, by the Authority aforesaid, that all Summons and Citations, or other Process Ecclesiastical in all Suits and Causes of instance, be<g ref="char:EOLhyphen"/>twixt party and party, and all Causes of correction, and all Causes of Basterdy or Bigamy, or Inquiry</hi> de Jure Patronatus, <hi>Probates of Testa<g ref="char:EOLhyphen"/>ments, and Commissions of Administrations of Persons deceased, and all Acquittances of, and upon Accounts made by the Executors, Admini<g ref="char:EOLhyphen"/>strators or Collectors of goods of any dead Person, be from the first day of</hi> July <hi>next Following made in the Name and with the Style of the King as it is in Writs Original, or Iudicial, at the Common Law, and that the</hi> Teste <hi>thereof be in the Name of the Arch-bishop or bishop, or other having Ecclesiastical Iurisdiction, who have the commission and Grant of the Authority Ecclesiastical, immediately from the Kings Highness, and that his Commissary, Official, or Substitute, Exercising Iurisdiction under him shall put his name in the Citation or Process after the</hi> Teste.</p>
+                        <p>
+                           <hi>Furthermore be it Enacted by the Authority aforesaid, that all manner of person or persons who have the Exercise of Ecclesiastical Iurisdiction, shall have from the first day of</hi> July <hi>before expressed in their Seals of Office the Kings Highnesses Arms decently set with certain Characters under the Arms for the Knowledge of the Diocess, and shall use no other Seal of Iurisdiction but wherein his Maiesties Arms be ingraven, upon pain that if any person shall use Ecclesiastical Iurisdiction (after the day expressed) in this Realm of</hi> England, Wales, <hi>or other his Domiuions or Territories, and not send or make out the Citation or Process in the Kings Name, or use any Seal of Iurisdiction other then before Limited, that every such Of<g ref="char:EOLhyphen"/>fender shall incur and run in the Kings Majesties Displeasure and Indigna<g ref="char:EOLhyphen"/>tion, and suffer Imprisonment at his Highnesses Will and Pleasure.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now whether the Ecclesiastical Courts have such Authority from the Kings Majesty by Commission under the great Seal of <hi>England,</hi> and do proceed in the Exercise thereof, according to the recited Statute of the 1 <hi>Edw.</hi> 6. the said <hi>Jones</hi> doth humbly leave it with Doctor <hi>Pinfold</hi> to give a Satisfactory Demon<g ref="char:EOLhyphen"/>stration of it.</p>
+            <pb n="6" facs="tcp:175377:6"/>
+            <p> However the said <hi>Jones</hi> hath yet no cause to conclude that the Ecclesiastical Courts have such Power, or have so Legally Proceeded with him, and many o<g ref="char:EOLhyphen"/>ther Persons, first, because the first step of Proceeding, <hi>viz.</hi> the Citation, was not in the Kings Name.</p>
+            <p>Secondly, Because Doctor <hi>Pinfold</hi> refused to show the Kings Commission when humbly desired, and honestly demanded in the place where he held his Court, which if the said Doctor had been impowered according to the former Statute, it had been very easy for him to have given some convincing Demon<g ref="char:EOLhyphen"/>stration thereof, and then the said <hi>Jones</hi> would have so declared the matter to others of his fellow Protestants, as might have prevented many People from finding fault with the said Court, and have caused them to give the more Re<g ref="char:EOLhyphen"/>verence and Respect because of his Majesties Authority according to Law.</p>
+            <p>But it may be some will say, that the aforesaid Statute of 1 <hi>Edw.</hi> 6.2. hath been Repealed. The said <hi>Jones</hi> doth grant that to be true, but then let it be well considered by whom it was repealed, and that was by Queen <hi>Mary,</hi> a shee-Po<g ref="char:EOLhyphen"/>pish Successor, an Enemy to the Protestant Religion, and to Protestants of all sorts, who made a change in Ecclesiastical Courts, as well as in other Courts, Popish Persons being made Judges, Officials, and Surrogates to manage Ec<g ref="char:EOLhyphen"/>clesiastical Affairs, according to the Popish way, and then were the poor Pro<g ref="char:EOLhyphen"/>testants the Dissenters of that time, and were handled accordingly, being Ci<g ref="char:EOLhyphen"/>ted to the Ecclesiastical Courts, and Excommunicated, and then delivered up to the Temporal Power for Imprisonment and death also, because they were the Non-Conformists of that day, and did not in all things submit themselves to the Government as Established by Law, though they had the holy Word and Law of God on their sides. This may teach all Persons to take heed of in<g ref="char:EOLhyphen"/>sisting too much upon National Laws, in matters of Religion, because they who are the Conformists in one Kings Raign, may be the Non-Conformists in his Successors Raign; and they would not think it a sufficient Argument against them, that their Opinions and Practices are contrary to the Government Esta<g ref="char:EOLhyphen"/>blished by Law: But whether the men of <hi>Doctors-Commons</hi> may not believe that a change of Religion Established by Law, is not a sufficient Argument to keep their places, and plead Conformity, shall be left for time to manifest.</p>
+            <p>And now the said <hi>Jones</hi> will return to the Repeal of the former Statute, <hi>An<g ref="char:EOLhyphen"/>no Primo Mariae Sessio Secunda chap.</hi> 2. A Repeal was made of the Statute of the first of <hi>Edw.</hi> 6.2. called an act for the Election of Bishops, which is the afore<g ref="char:EOLhyphen"/>cited Statute,</p>
+            <p>But then it must be again considered, the Statute of Repeal of 1 <hi>Mary</hi> 2. was repealed by King <hi>James;</hi> see <hi>Anno</hi> 1 <hi>Jacobi Regis Chap.</hi> 25. in these very words. <hi>And be it further enacted by the Authority of this present parliament, that an Act made in the first year of the Reign of Queen</hi> Mary, Entituled, An Act for the Repeal of certain Statutes made in the time of King <hi>Edward</hi> the sixth, <hi>shall stand Repealed and Void.</hi>
+            </p>
+            <p>So that now it is Evident that Queen <hi>Maries</hi> repealing Statute being repeal<g ref="char:EOLhyphen"/>ed and made void by King <hi>James,</hi> those Statutes of King <hi>Edward</hi> the sixth are now in full force, they being left in the same Life and Strength as when they were first made, unless it can be proved that a Repeal of them hath been made since the Statute of 1 <hi>Jacob, chap</hi> 25.</p>
+            <p>And so the said <hi>Jones</hi> will return to give a further Account of his own Case and further saith, that between the time of the Admonition, and the time ap<g ref="char:EOLhyphen"/>pointed by Doctor <hi>Pinfold,</hi> for him to take the Sacrament, he did advise with such as were learned in the Laws of <hi>England,</hi> and had a Plea in Law, prepared
+<pb n="7" facs="tcp:175377:6"/>and drawn up as an Answer, to what he was charged with in the Presentment of the Church-Wardens of his said Parish.</p>
+            <p>A Copy of which Presentment take as followeth,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <p>George Cole <hi>and</hi> William Baron <hi>Church-Wardens of the Parish of St.</hi>
+                        </p>
+                        <p>Bartholomew Exchange, <hi>each do declare as followeth.</hi>
+                        </p>
+                        <p>
+                           <hi>Whereas we cannot of our own knowledge prove who of the Parishoners have and who have not been at Church, and for that Mr.</hi> Robert Key, <hi>the late Church-War<g ref="char:EOLhyphen"/>den did promise to give in and make up his Accounts, we gave in our Presentments as we did.</hi>
+                        </p>
+                        <p>
+                           <hi>For the Persons following we do not Remember to have seen them at Church in some time past, or to have received the Sacrament, for three Months past.</hi>
+                        </p>
+                        <list>
+                           <item>Mr. <hi>Robert Key.</hi>
+                           </item>
+                           <item>Mr. <hi>Peter Kid.</hi>
+                           </item>
+                           <item>Mr. <hi>Michael Bayley.</hi>
+                           </item>
+                           <item>Mr. <hi>Job Sargant.</hi>
+                           </item>
+                           <item>Mr.—<hi>Jones.</hi>
+                           </item>
+                           <item>Mr.—<hi>Walker</hi>
+                           </item>
+                           <item>Mr. <hi>Francis Miller.</hi>
+                           </item>
+                           <item>Mr. <hi>John Millward.</hi>
+                           </item>
+                           <item>Mr. <hi>Thomas Netherway.</hi>
+                           </item>
+                           <item>Mr. <hi>George Sterman.</hi>
+                           </item>
+                           <item>Mr.—<hi>Jackson.</hi>
+                           </item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And as touching the aforesaid Presentment, the said <hi>Jones</hi> doth verily believe that the Church-wardens did not do it as an Act of Envy or ill will to their Neighbours, for as much as the names of the before mentioned Parishoners were carried to <hi>Doctors-Commons</hi> by some body else, and then the Church-Wardens were sent for to <hi>Doctors-Commons,</hi> and required to put them into a Present<g ref="char:EOLhyphen"/>ment, and the said Church-wardens did then forbear to do so, and about a week after they did it, at the importunity of some person at <hi>Doctors Commons.</hi> How ever the said <hi>Jones</hi> cannot but take notice, that the Church-wardens were very sparing of their words, in the Presentment, there is no harsh Expressions against any of their Neighbours, neither have they made it a Positive charge, thereby demonstrating they were men cautions of what they did in matters of Accu<g ref="char:EOLhyphen"/>sation, but it seems any small hint at things of an Accusing nature, may serve as a Foundation of the Proceedings of that Court.</p>
+            <p>And the said <hi>Jones</hi> further saith, that if the aforesaid Church-wardens had not consented to make this Presentment, they could not have been punished by that Court: And seeing the names were carried into Court by some other person they might have left him to be Prosecutor who was so forward to turn Informer.</p>
+            <p>But this matter being done, it cannot be now undone, and poor <hi>Jones</hi> doth yet hope he shall not be quite undone by it.</p>
+            <p>And for the Benefit and help of Church-Wardens, who are required by the Ecclesiastical Courts to take an Oath, to make Presentments of Crimes and Offences, let the Statute of <hi>Anno Decimo Sexto Caroli Prim. Chap.</hi> 11. <hi>Paragr.</hi> 4. be well considered; that so they may not be Imposed upon in such matters. The Words of the Statute are as followeth,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="statute">
+                        <p>
+                           <hi>And be it also Enacted by the Authority aforesaid, that no Arch-bishop, Bishop, nor Vicar General, nor any Chancellor, Official, nor Commissary of any Arch<g ref="char:EOLhyphen"/>bishop, or Vicar General, nor any Ordinary whatsoever ‡ Nor any other Spiri<g ref="char:EOLhyphen"/>ual or Ecclesiastical Iudge, Officer or Minister of Iustice, nor any other Per<g ref="char:EOLhyphen"/>on or persons whatsoever, exercising Spiritual or Ecclesiastical power, Autho<g ref="char:EOLhyphen"/>ty, or Iurisdiction, by any grant Licence, or Commission of the Kings Maje<g ref="char:EOLhyphen"/>sty
+<pb n="8" facs="tcp:175377:7"/>his Heirs or Successors, or by any Power or Authority derived from the King his Heirs or Successors, or otherwise, shall from and after the first day of <hi>August,</hi> which shall be in the year of our Lord God one thousand six hundred and forty one; Award impose or inflict any pain, penalty, Fine amerciament, Imprisonment, or other Corporal Punishment, upon any of the Kings Subjects, for any Con<g ref="char:EOLhyphen"/>tempt, Misdemeanour, Crime, Offence, Marter or thing whatsoever; belonging to Spiritual or Ecclesiastical Cognizance, or Iurisdiction, or shall</hi> Ex-Officiō, <hi>or at the Iustance or Promotion of any other person whatsoever, urge, Entorce, Tender, give or minister unto any Church-Warden, Sideman, or other per<g ref="char:EOLhyphen"/>son whatsoever, any Corporal Oath whereby he or she shall or may be charged, or Obliged to make any Presentment, of any Crime or offence, or to confess, or to Accuse himself or herself, of any Crime, Offence, Delinquency, or Misdem ea<g ref="char:EOLhyphen"/>nour or any Neglect, matter, or thing whereby, or by Reason whereof, he or she shall or may be Liabie or Exposed to any Censure, pain, penalty, or punishment whatsoever, upon pain and Penalty that every person who shall Offend contrary to this Statute, shall forfeit and pay Treble Damages, to every person thereby grieved, and the sum of one h<gap reason="illegible: faint" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ndred pounds, to him or them who shall first de<g ref="char:EOLhyphen"/>mand and Sue for the same, which said Treble Damages, and sum of one hun<g ref="char:EOLhyphen"/>dred pounds shall and may be demanded, and Recovered by Action of Debt, Bill and plaint, in any Court of record, wherein no priviledge, Essoine, protection, or Wager of Law, shall be admitted or Allowed, to the Defendant.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But it will be objected by some that this Statute is repealed; unto which it is answered, by the said <hi>Jones,</hi> that the first part of the afore-recited Statute is repealed; but the second part, <hi>viz,</hi> that in which mention is made, of imposing the Oath <hi>Ex-Officio</hi> or any other Oath to the damage of any of the Kings Sub<g ref="char:EOLhyphen"/>jects, is repeated and Confirmed by the Statute of <hi>Decimo tertio Caroli Secundi Chap.</hi> 12. <hi>Paragraph.</hi> 4.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="statute">
+                        <p>
+                           <hi>Provided also, and it is hereby further Enacted, that it shall not be Lawful for any Arch-bishop, Bishop, Vicar General, Chancellor, Commissary, or any other Spiritual or Ecclesiastical Iudge, Officer or Minister, or any other person having or Exercising Spiritual or Ecclesiastical Iurisdiction, to Tender or Administer unto any person whatsoever the Oath usually called the Oath</hi> Ex-Offic<gap reason="illegible: missing" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <hi>or any other Oath, whereby such person to whom the same is tendered, or Administred, may be charged or Compelled, to confess or Accuse, or to purge him or herself of any Criminal matter or thing whereby he or she may be Liable to Censure or punishment; any thing in this Statute, or any other Law, Custom, or Vsage heretofore to the contrary hereof in any wise notwithstanding.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And for a better Understanding what Power or Authority Ecclesiastical Per<g ref="char:EOLunhyphen"/>sons have or have not, consider well the last clause of the before recited Statute.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="statute">
+                        <p>
+                           <hi>Provided always, <hi>That this Act or any thing therein contained, shall not extend or be construed to Extend, to give unto any Arch-bishop, Bishop, or any other Spiritual or Ecclesiastical Iudge, Officer, or other person, or persons, aforesaid any power or Authority to Exercise, Execute, Inflict, or Determine any Eccle<g ref="char:EOLhyphen"/>siastical Iurisdiction, Censure or Coertion, which they might not by Law have done before, the year of our Lord</hi>
+                           </hi> 1639. <hi>nor to Abridge or Diminish the Kings Majesties Supremacy, in Ecclesiastical Matters and Affairs, nor to confirm the Canons in the year</hi> 1640. <hi>nor any of them, nor any other, Eccleūastical Laws or Canons not formerly confirmed, Allowed, or Enacted by parliament, or by the Established Laws of the Land, as they stood in the year of our Lord</hi> 1639.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>From which two Statutes these things are to be Considered:</hi>
+            </p>
+            <p n="1">1. That the Statute of 1 <hi>Eliz. Chap.</hi> 1. <hi>Sect.</hi> 18. by which some Power and Authority extraordinary, was Exercised by Ecclesiastical Persons to the great wrong and damage of his Majesties Subjects, is repealed and made void by <hi>Car.</hi> 1. and <hi>Car.</hi> 2.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:175377:7"/> 2. That though the repealing Statute of <hi>Car.</hi> 1. chap. 11. be Repealed by 13th <hi>Car.</hi> II. chap. 12. yet the Ecclesiastical Party have thereby no Power or Authority given or left unto them, but such ordinary power as they had before the making the Re<g ref="char:EOLhyphen"/>pealed Statute.</p>
+            <p n="3">3. That the Imposing of Oaths by ecclesiastical persons to the damage of any of His Majesties Subjects is plainly forbidden by the Statutes of 16 <hi>Car.</hi> 1. Chap. 11. and 13. <hi>Car.</hi> II. chap. 12.</p>
+            <p n="4">4. That the Ecclesiastical Party have not any power to proceed against any of His Majesties Subjects, or to make or confirm any Canon or Ecclesiastical Laws, other<g ref="char:EOLhyphen"/>wise then was Allowed and Confirmed to them by Acts of Parliament, and the Established Laws of the Land, as they stood in the Year 1639. and how much or how little that was, shall be left to further Search:</p>
+            <p>And since the making of the aforesaid Statute of 13 <hi>Car.</hi> II. <hi>viz.</hi> in the 27th year of his Majesties Reign, one <hi>Thomas Watersfield,</hi> Church-Warden of the Parish of <hi>Arundel,</hi> in the County of <hi>Sussex,</hi> was Imposed upon by the Bishop of <hi>Chichester, to take an Oath, That he should with his utmost diligence, Present every person, which then or lately was inhabit<g ref="char:EOLhyphen"/>ing within the said Parish of</hi> Arundel, <hi>who hath done any Offence, or neglected any Duty, men<g ref="char:EOLhyphen"/>tioned in certain Articles, contained in a certain printed Book: In which book, amongst other things, there was contained this question,</hi> viz. <hi>Whether every person inhabiting, or sojourning within the Parish of</hi> Arundel <hi>aforesaid, did daily resort every Lords day and Festival days Appointed for Divine Service, to the Church? And whether they did there remain the whole time of Divine Service, quietly, with reverence, order and decency?</hi>
+            </p>
+            <p>Which Oath the said Church-Warden did-refuse to take, and for it was afterward Excommunicated by the said Bishop. But the said <hi>Watersfield</hi> brought his Case before His Majesties Judges of the Court of <hi>Common Pleas,</hi> who relieved and released him by a Pro<g ref="char:EOLhyphen"/>hibition; in which and wherein it is plainly Decleared on the behalf of the Kings Ma<g ref="char:EOLhyphen"/>jesty, as followeth, <hi>viz. That by the Laws of this our Realm of England, no person ought to be cited to appear in any Court Christian; before any Judge Spiritual, to take any Oath, unless it be only in Cases Matrimonial or Testamentary.</hi> And the aforesaid Bishop is in the said Prohibition Charged with Breach of the aforesaid Statute of 13 <hi>Car.</hi> II. and of the Common Law of this Realm, and therefore was required to release and dissolve all De<g ref="char:EOLhyphen"/>crees and Sentenees against the said <hi>Thomas Watersfield.</hi> And for your further satis<g ref="char:EOLhyphen"/>faction pray go and look the Prohibition. But to return to our Narrative.</p>
+            <p>The said <hi>Jones</hi> further saith, That upon the Sixth day of <hi>December,</hi> instead of car<g ref="char:EOLhyphen"/>rying a Certificate of his taking the Sacrament, he carried his Plea in Law, to Doctor <hi>Pinfold's</hi> Court, then held in the Tabernacle in <hi>Old-Fish-street, London;</hi> and took wit<g ref="char:EOLhyphen"/>nesses with him, and presented his Plea to the Doctor; but he refused to take it, say<g ref="char:EOLhyphen"/>ing he would go thorrow what he was then upon. The said <hi>Jones</hi> bid the Doctor take notice he was there and he would wait; which he did above an hour, till the Doctor spoke of Adjourning the Court.</p>
+            <p>Then <hi>Jones</hi> spoke to the Doctor as followeth, Doctor, this Paper is a Plea in Law against the Presentment of the Church-Wardens: I desire you to receive it, and of Right demand you to Record it in your Court Book, and Doctor, I pray do not take what I am now going to say to you as an Angry word proceeding from my own breast, but I am Advised to say: Excommunicate me at your peril; this is my Plea, and I will stand by it. Then the Doctor said, Leave it; and <hi>Jones</hi> said, Record it: this was spoken several times over by each; at which instant some body pulled off a Gentlemans Hat; and some busle was like to be in the Court: and <hi>Jones</hi> desired the Doctor to Record his Plea, and he would be gone, and not be concerned with any Tumult. The Doctor said, Leave it, and <hi>I</hi> will presently Adjourn the Court; which was done accordingly.</p>
+            <p>
+               <hi>A Copy of the fore-mentioned</hi> Plea, <hi>is as followeth.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="plea">
+                        <head>The Answer of <hi>James Jones</hi> of <hi>London,</hi> to the pretended Charge or Presentment of <hi>George Cole</hi> and <hi>William Barron,</hi> Church-Wardens of the Parish of St. <hi>Bartholomew Ex<g ref="char:EOLhyphen"/>change:</hi> Exhibited on the Fourteenth day of <hi>November</hi> last; before the Worshipful <hi>Thomas Pinfold,</hi> one of the Judges of the <hi>Ecclesiastical Courts.</hi>
+                        </head>
+                        <p n="1">1. <hi>THE said</hi> James Jones <hi>alwaies reserving to himself, and praying the liberty of a fur<g ref="char:EOLhyphen"/>ther and more full Answer, and in more due form of Law, and the benefit of all Legal Ex<g ref="char:EOLhyphen"/>ceptions to the said Charge or Presentment, saith, that he the said</hi> James Jones <hi>cannot determine
+<pb n="10" facs="tcp:175377:8"/>the bounds of Diocesses and Parishes; and therefore whether he the said</hi> James Jones <hi>be, and during the time in the said pretended Presentment, was an Inhabitant within the said Parish, but referreth himself to the due proof thereof according to Law.</hi>
+                        </p>
+                        <p n="2">2. <hi>The said</hi> James Jones <hi>saith, he is credibly informed, and hopes to prove the same; that the said Church-wardens sometime since their being in their Office, and before the pretended Pre<g ref="char:EOLhyphen"/>sentment, did upon their Oaths Return into the Court</hi> Omnia bene, <hi>&amp;c. or did not charge the said</hi> James Jones <hi>with any Offence, and therefore, if he the said</hi> James Jones, <hi>were an Inhabitant within the said Parish, (as the pretended Presentment supposes) he the said</hi> James Jones <hi>ought to be supposed innocent, and free from any fault. And for the time of such their first Present<g ref="char:EOLhyphen"/>ment, he the said</hi> James Jones <hi>referreth himself, and demands the sight and proof thereof.</hi>
+                        </p>
+                        <p n="3">3. <hi>The same</hi> James Jones <hi>saith, That the now pretended Presentment, against this Respondent,</hi> &amp;c. <hi>is not sufficient in the Law; it being not positive, but doubtful and uncertain, and there<g ref="char:EOLhyphen"/>fore, he the said</hi> James Jones, <hi>ought not to Answer thereunto, or to receive any admonition upon such an Illegal Presentment, for that all Presentments (as the said</hi> James Jones <hi>is advised</hi>) <hi>ought to be certain, and not doubtful, before any Answer by Law ought to be given. The Law of this Realm of</hi> England, <hi>not compelling any person to accuse himself: and by the words of this pretended Presentment, the said Church-Wardens have not accused him of any Crime, but only saith they cannot of their own knowledge, know who of the Parishioners, who have, and who have not been at Church,</hi> &amp;c. <hi>And further they do not remember to have seen the said</hi> James Jones, <hi>&amp;c. at Church for three months last past: which is no Charge according to Law, for that it ought to be certain, that the said</hi> James Jones, &amp;c. <hi>did not come to his Parish Church.</hi>
+                        </p>
+                        <p n="4">4. <hi>The said</hi> James Jones <hi>saith, That it doth not appear by the pretended Presentment, That he the said</hi> James Jones <hi>is the person Presented; forasmuch as his full and compleat Namewas not in the Presentment, at the time of the Exhibition thereof. And he the said</hi> James Jones, <hi>conceives it cannot be Legally inserted or added afterwards in the said Presentment.</hi>
+                        </p>
+                        <p>All which the said <hi>James Jones</hi> does insist upon, and prays this Court to take the same into their Consideration, and that he may be hence Discharged.</p>
+                        <closer>
+                           <dateline>Subscribed and delivered into the Ecclesiastical Court, by the hand of <hi>James Jones,</hi> on <date>the Sixth day of <hi>December,</hi> 1682.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THE said <hi>Jones</hi> having thus proceeded, he waited several days, thinking be should be Cited to have some kind of Answer to his Plea: whether it was Accepted or Rejected; but not hearing any thing at all, upon the Eleventh of <hi>December,</hi> the said <hi>Jones</hi> went again to Doctor <hi>Pinfolds</hi> Court in the Tabernacle of <hi>Old-Fish-street, London:</hi> that so he might observe Proceedings, and to make answer if he should be called upon. Which day many Pleas were delivered into the said Court; which the Doctor re<g ref="char:EOLhyphen"/>ceived with great civility, and promised a Hearing of them all, the next Fryday fol<g ref="char:EOLhyphen"/>lowing. The said <hi>Jones</hi> being not that day called, kept silence, and did not urge his own Case, least he should be counted a Troubler of that Court; and therefore resolved to attend Doctor <hi>Pinfold</hi> the Fryday following: concluding that then he should have opportunity to have his Plea debated as well as others. Especially considering that his Plea was one of the first that was delivered into that Court.</p>
+            <p>When Fryday came, which was the Fourteenth of <hi>December;</hi> the said <hi>Jones,</hi> with a great number of His Majesties Protestant Subjects, went to <hi>Doctors Commons;</hi> for Doctor <hi>Pinfold</hi> had ordered the Hearing of the Pleas to be there, in a very large place, like a great Hall, which looked somewhat more like a Court than the Tabernacle. At which time Doctor <hi>Pinfold</hi> appeared as Judge. And Counsellour <hi>Welden</hi> and Coun<g ref="char:EOLhyphen"/>sellor <hi>Hooke,</hi> and one of the Doctors belonging to the same Court, <hi>viz.</hi> Doctor <hi>Rains,</hi> appeared to plead for them that had put in their Pleas. And the Cause of Mr. <hi>Morty<g ref="char:EOLhyphen"/>mer,</hi> and one Mr. <hi>Duberry,</hi> were debated, with great Soberness and strength of Argu<g ref="char:EOLhyphen"/>ment: touching the Errors of the Presentments, and that Courts Imposing the Sa<g ref="char:EOLhyphen"/>crament at such particular times as the Law doth not Impose it upon any of His Majesties Subjects. Doctor <hi>Pinfold</hi> saw he was hard put to it, in the beginning of this work, and therefore, after a little Debate of the matter, between him and the Coun<g ref="char:EOLhyphen"/>cellors: he spread forth his hands and said, he would hear no more Pleas, but he would Answer them all by the Seal of the Court to morrow morning. And so the Doctor went away without any Formal Adjourning the Court, or dismissing that great As<g ref="char:EOLhyphen"/>sembly; not any Officer appearing to open his mouth, so much as to say, God save
+<pb n="11" facs="tcp:175377:8"/>the King. And so that great Assembly departed, in very peaceable manner, as be came his Majesties peaceable Subjects, though grieved in their minds at such proceed<g ref="char:EOLhyphen"/>ings. The said <hi>Jones</hi> was ready to appear in his own Case, if he had been called, or if there had been opportunity: he being prepared with a Suppliment to his Plea: drawn up by the Learned in the Law. A Copy whereof take as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="supplement_to_plea">
+                        <head>the further Answer and Suppliment of <hi>James Jones,</hi> to the Presentment aforesaid.</head>
+                        <p>
+                           <hi>THE said</hi> James Jones <hi>saving and reserving,</hi>
+                           <note place="margin">Impri<g ref="char:EOLhyphen"/>mis</note>
+                           <hi>as in his former Answer he hath already prayed, saith, That it doth not appear by the said Presentment, or pretended Presentment, That the same was made upon the Oaths of the said Church-Wardens: which the said</hi> James Jones, <hi>is Advised ought to have been Asserted in the said Presentment, or pretended Presentment, in regard (as the said</hi> Jones <hi>is advised) no Presentment is legal and sufficient in the Law, to be Answered unto: nor ought the said</hi> Jones <hi>to Answer any Presentment but what is given in upon Oath to this Court. The Laws and Customs of this Land not permitting any of the Kings Liege Subjects, to be any ways vexed or grieved, or to be called into question by any Court whatsoever, thereby to be charged with any Offence; but upon the Oath of One or more persons. Nor ought any Accusations to be received by this Court against the said</hi> James Jones <hi>upon Oath. For that the said</hi> James Jones <hi>is a free born Subject of</hi> England; <hi>un<g ref="char:EOLhyphen"/>convicted or Accused legally of any Crime, and therefore is Advised he ought not to make any Answer to such a Presentment, until it doth appear to be according to Law.</hi>
+                        </p>
+                        <p n="2">2. <hi>And the said</hi> James Jones <hi>saith, That by no Law of this Realm, any Lay-man can be compelled or obliged to Receive the Sacrament, more or oftner, than three times in the year,</hi> viz. <hi>at</hi> Easter, <hi>and the two other times of the year are left free, and indifferent, to the party; when he is best fitted and prepared. And the said</hi> James Jones <hi>saith, he is a Lay-man, and doth not know of any Law, that doth Abridge him of that Liberty; or oblige him to Receive it oftner; or otherwise in any fixed time: wherefore, for as much as the Church-Wardens, that made the said Presentment, or pretended Presentment, could not Legally present the said</hi> James Jones, <hi>for any Offence, but such as do, or shall arise since</hi> Easter <hi>last: and for that there is abundantly sufficient time, for him the said</hi> James Jones, <hi>to perform what by Law is required,</hi> viz. <hi>to Receive the Sacrament twice betwixt this and</hi> Easter, <hi>and once then. And that as the said</hi> James Jones <hi>hath not broken any Law, so neither, as he conceives and is advised, is there any ground for any Citation or Admonition against him, nor that any Admonition should or can li<g ref="char:EOLhyphen"/>mit him where the Law hath left him free; nor may this Court compel him by Ecclesiastical Censures, or otherwise, to Receive the Holy Sacrament in a shorter or fixed time, or any other<g ref="char:EOLhyphen"/>wise limit him than the Law hath specified, directed, or allowed.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>Which the said</hi> James Jones <hi>insists upon, with what before he hath already insisted<lb/> on, and prayed as before he hath already prayed.</hi>
+                              <lb/> James Jones.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="addendum">
+               <head>An Addition to the Suppliment.</head>
+               <p>AND furthermore the said <hi>Jones</hi> saith, That besides all that is contained in his Plea, and Suppliment to the said Plea, he had more Matter to be Argued in his Defence against the aforesaid Presentment, to shew the deficiency and insufficiency thereof. A brief account of which take as followeth.</p>
+               <p n="1">1. He the said <hi>Jones</hi> saith. That there is no mention of what Diocess the aforesaid Pa<g ref="char:EOLhyphen"/>rish (and he as Inhabitant thereof) is, which should have been plainly Expressed in the said Presentment.</p>
+               <p n="2">2 The said <hi>Jones</hi> saith, That he was Prosecuted for Non-conformity, before His Majesties Justices of the Peace, in the County of <hi>Surrey,</hi> and particularly for not com<g ref="char:EOLhyphen"/>ing to Church: whch is the same thing mentioned in the Church-Wardens Presente<g ref="char:EOLhyphen"/>ment, and for which the said <hi>Jones</hi> is Excommunicated. Now for the said <hi>Jones</hi> to be punished in the Temporal Courts and in the Ecclesiastical Court, at or about the same time, seems to be contrary to the Statute of <hi>Anno primo Regni Eliz.</hi> Chap. 2. which saith, Provided <hi>always, and be it</hi> Enacted, <hi>That whatsoever persons Offending in the premises, shall for their Offences first receive Punishment of the Ordinary, having a Testimonal thereof under y<seg rend="sup">e</seg> said Ordinances Seal: shall not for rhe same Offence eftsoons be Convict
+<pb n="12" facs="tcp:175377:9"/>before the Iustices: and like wise Receiving for the said Offence punishment, first by the Iustices: shall not for the same Offence eftsoons Receive punishment of the Ordinary, any thing contained in this Act to the contrary not withstanding.</hi>
+               </p>
+               <p n="3">3. And he said <hi>Jones</hi> saith, That the Church-Wardens did not in their Pre<g ref="char:EOLhyphen"/>sentment Alledge against him, That he had not any Lawful or Reasonable Cause to shew why he had not been at Church or Sacrament of so long a time, mentioned in the Presentment. <hi>See</hi> 1 <hi>Eliz. Cap.</hi> 2. <hi>Paragraph</hi> 14.</p>
+               <p n="4">4. And he the said <hi>Jones</hi> saith, That whereas Errors in an Indictment at Sessions or Assizes, or Errors in a <hi>Mittimus,</hi> whereby a Man is committed to prison, will when Legally Pleaded, overthrow and make void such Indictment or Commitment, and so relieve the Indicted and Committed person; Even so and much more should the said <hi>Jones</hi> by reason of a Deficient and Insufficient Presentment, be Discharged from the Ecclesiastical Court, as he prayed in his aforesaid Plea and Suppliment; and therefore the said <hi>Jones</hi> doth conclude, that it is better to be concerned with the Kings Justices, and Judges, who Sit by Commission from the King, in the Kings Courts of Record, than to be concerned with any Ecclesiastical Court, and such as are Doctors and Judges in the said Courts.</p>
+               <p>The said <hi>Jones</hi> further saith, he heard no more from <hi>Doctors Commons</hi> till the Twen<g ref="char:EOLhyphen"/>tieth of <hi>December,</hi> and then the Doctor of his Parish, <hi>viz.</hi> St. <hi>Bartholomew Exchange</hi> did in very friendly manner acquaint the said <hi>Jones,</hi> that an Excommunication against him was come from <hi>Doctors Commons,</hi> and that the said Doctor was ordered to publish the said Excommunication next morning, being St. <hi>Thomas</hi>'s day: unto which the said <hi>Jones</hi> Reply'd, That the Ecclesiastical Court had proceeded Illegally in going so far as an Excommunication, and demonstrated the same in two Particulars, First, that he the said <hi>Jones</hi> had given a Plea in Law to that Court against the aforesaid Present<g ref="char:EOLhyphen"/>ment, and was never admitted to be heard upon his Plea, which was contrary to the Laws of <hi>England,</hi> to have any Sentence pass upon any man to his damage, without his Cause be Legally heard and Debated. Secondly, That it was not in the power of the Ecclesiastical Court Legally to Excommunicate the said <hi>Jones</hi> for not taking the Sa<g ref="char:EOLhyphen"/>crament at any such time as that Court should at their pleasure Appoint, there being but one time of the year named for Receiving the Sacrament, <hi>viz. Easter.</hi> The afore<g ref="char:EOLhyphen"/>said Doctor reply'd, he was sorry things were brought to such a point, but he could not avoid obeying the Order of <hi>Doctors Commons,</hi> and so the next day being <hi>Dec.</hi> 23. called St. <hi>Thomas</hi> day, the Excommunication was published in the Parish Church called St. <hi>Bartho<g ref="char:EOLhyphen"/>lomew-Exchange:</hi> and upon the Twenty third day of the same Month, the said <hi>Jones</hi> went with a Witness with him to the Registers Office, and demanded a Copy of the Libel against him, but the said <hi>Jones</hi> could not have it though he offered payment for the said Libel. And upon the Twenty Sixth of the same Month, the said <hi>Jones</hi> took wit<g ref="char:EOLhyphen"/>ness with him and demanded a Copy of all the Proceedings of the Court, and parti<g ref="char:EOLhyphen"/>cularly a Copy of his Plea: the Clerk did promise a Copy of the proceedings of the Court, but could not let him have them at that time. And upon the Thirtieth day of the same Mouth, the said <hi>Jones</hi> went and a witness with him for the aforesaid Copy, but it was not done; the said <hi>Jones</hi> then allowed the Clerk till the next <hi>Monday,</hi> and the Clerk would not promise to have those things copied by that time, pleading it was Ho<g ref="char:EOLhyphen"/>ly-days, and that was the reason they were not done; the said <hi>Jones</hi> replyed, That it was a strange thing to him, they could not write their own proceedings upon a Ho<g ref="char:EOLhyphen"/>ly-day, as well as Excommniucate him upon a Holy-day. The said <hi>Jones</hi> waited till <hi>Wednesday</hi> the Third of <hi>January,</hi> and then went with his friend for the aforesaid Copy, and then the Clerk said, That he whom he had appointed to draw out the aforesaid Copy was out of the way, himself was going from the Office at that time, and so the said <hi>Jones</hi> came away without what he so much endeavoured to have, going more times to the Office than he was bound to do.</p>
+               <p>Thus things remained till about a fortnight before <hi>Hilary</hi> Term, and then the said <hi>Jones</hi> went and made Affidavit, before Judge <hi>Charleton:</hi> the form of the said Affidavit is as followeth, <hi>James Jones</hi> of <hi>London,</hi> Merchant-Taylor, deposeth upon Oath, That he was Cited into the Ecclesiastical Court, before Doctor <hi>Pinfold,</hi> and made his appea<g ref="char:EOLhyphen"/>rance, and since hath been at the Registers Office, and there demanded a Copy of his Libel, but could not obtain it, though he offered payment for the same.</p>
+               <pb n="13" facs="tcp:175377:9"/>
+               <p> And after this, upon the 23d. of <hi>Jan.</hi> 1682. being the 1st. day of the Term, the said <hi>Jones</hi> with a few others moved the Honourable Judges of the Kings Court of <hi>Common Pleas,</hi> for Prohibitions, upon the not obtaining Copies of their Libels, when demanded, and payment offered for the same; the particular <hi>Affidavits</hi> of that matter being read in Court, and moved by several Serjeants at Law, the Judges were pleased to grant Pro<g ref="char:EOLhyphen"/>hibitions with a <hi>Nisi causa, viz.</hi> if Dr. <hi>Pinfold</hi> could not shew cause against them; and a Rule of Court was served upon Dr. <hi>Pinfold,</hi> to appear before the Judges of the <hi>Common Pleas,</hi> on <hi>Friday</hi> the 26th. of the same Month; but the said <hi>Jones</hi> thought it expedient to move the Honourable Judges of the <hi>King</hi>'s <hi>Bench</hi> for a Prohibition, and therefore made <hi>Affidavit</hi> of not obtaining a Copy of his Libel, before the Honourable Judge <hi>Dolben;</hi> and it was read before the Judges of the <hi>Kings Bench,</hi> upon the 25th. of the same Month; and that Honou<g ref="char:EOLhyphen"/>rable Bench was pleased to grant a Prohibition for the said <hi>Jones;</hi> but the next day, being the 26th. of <hi>Jan.</hi> D. <hi>Pinfold</hi> engaged Sir <hi>George Jefferies,</hi> who is well known to be a Lawyer that will stoutly defend and main<g ref="char:EOLhyphen"/>tain the Cause he is engaged in, either for the King, or any of his own Clients, against the Plaintiff or De<g ref="char:EOLhyphen"/>fendant on the other side, and in this Case there was no want of words by Sir <hi>George</hi> to overthrow the Pro<g ref="char:EOLhyphen"/>hibitions, both at <hi>Kings Bench</hi> and <hi>Common Pleas;</hi> but the said <hi>Jones</hi> doth take it a little unkindly that Sir <hi>George Jefferies</hi> should with such sharpness of spirit reflect upon him before the Honourable Judges, as if he had surreptitiously obtained the Grant of a Prohibition, and highly blamed the said <hi>Jones</hi> for moving in two of His Majesties Courts for the said Prohibition; but if the said <hi>Jones</hi> had been then in Court, he would have ventured by humble desire to the honourable Judges, to make a modest and honest reply to that Gentleman, without being so sharp upon him; and therein have shewed, that the obtaining that Grant of a Prohibition could not fairly be counted surreptitious, because the honourable Judges granted it upon the <hi>Affidavit</hi> of the said <hi>Jones</hi> then read in Court, the truth of which <hi>Affidavit</hi> the said <hi>Jones</hi> would have sworn before all the Judges of <hi>England, viz.</hi> That he had been at the Registers Office, and demanded a Copy of his Libel, and could not obtain it, though he offered payment for the same; and in this very Case the Law hath provided a Prohibition for the relief of the Kings Subjects, who are too often vexed by the Ecclesiastical Courts. See the Statute of the 2 <hi>Henry</hi> V. chap. 3. The Words are these;</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statute">
+                           <p>Item, <hi>Forasmuch as divers of the Kings liege people, be daily Cited to appear in the Spiri<g ref="char:EOLhyphen"/>tual Court, before Spiritual Iudges, there to Answer to divers persons, as well of things which touch Free-hold, Debts, Trespass, Covenants, and other things whereof cognisance pertaineth to the Courts of our Lord the King, as of Matrimony and Testament, and when such persons so Cited appear and demand a Libel of that which against them is surmised to be informed to give their answer thereunto, or otherwise to purchase a Writ of our Lord the King, of Prohibition, according to their Case, which Libel to them is denied by the said Spiritual Judges, to the intent that such persons should not be aided by any such Writ, against the Law, and to the great damage of such persons so impleaded: our said Lord the King by the advice and assent of his Lords Spiritual, and Temporal, and at the re<g ref="char:EOLhyphen"/>quest and instance of the said Commons, hath Ordained and established, that at what time the Libel is grantable by the Law, that it may be granted and belivered to the party without and difficulty.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>From which good Statute, let these things be considered,
+<list>
+                     <item>1. That the Spiritual Courts ought to have Libels of those matters that are surmised against the Kings Liege People.</item>
+                     <item>2. That upon demand, without any delays, Copies of such Libels ought to be given to such of the Kings Liege People as make a demand of them, that thereby they may be enabled to make a Legal Defence for themselves, either respecting the matter of Fact surmised against them, or any illegal Proceedings in the management thereof.</item>
+                     <item>3. That such of the Kings Liege People as are denied, or cannot obtain a Copy of such Libel, when grantable by Law shall have the Kings Writ of Prohibition for their relief; or if the matters surmised against them in the Spiritual Court, be such things whereof Cognisance pertaineth to the Court of our Lord the King; besides those of Freehold, Debt, Trespass or Covenants, that they may have for their relief a Pro<g ref="char:EOLhyphen"/>hibition.</item>
+                  </list>
+               </p>
+               <p>Now the said <hi>Jones</hi> humbly conceives that the Matters surmised against him in the Spiritual Courts, are such things whereof Cognisance pertaineth to the Court of our Lord the King, <hi>viz.</hi> an uncertain Informa<g ref="char:EOLhyphen"/>tion of the Churchwardens, saying in their Presentment, They could not of their own knowledge prove who of the Parishioners have, and who have not been at Church, and that they did not remember to have seen the said <hi>Jones</hi> at Church for some time past, or to have received the Sacrament for three Months past: And besides these things surmised, when they were in the Ecclesiastical Court, a Copy of a Libel concerning them, could not be obtained when demanded, upon which the said <hi>Jones</hi> moved for a Prohibition; but Sir <hi>George Jefferies,</hi> in managing the Cause for D. <hi>Pinfold,</hi> did plead there was no Libel in that Case, and there<g ref="char:EOLhyphen"/>fore the Ecclesiastical Court could not grant it when demanded, and that D. <hi>Pinfold</hi> had proceeded by the Pre<g ref="char:EOLhyphen"/>sentments, of the Churchwardens. The said <hi>Jones</hi> doth not blame Sir <hi>George</hi> for making this Plea for the Do<g ref="char:EOLhyphen"/>ctor; but the question is, Whether D. <hi>Pinfold</hi> ought not to have a Libel in the Case, as well as a Presentment? the Statute mentioning a Libel of things surmised against the Kings Liege People; however the Kings Sub<g ref="char:EOLhyphen"/>jects have good cause to esteem the Proceedings of the <hi>Kings</hi> Courts of Justice, where there is not only Pre<g ref="char:EOLhyphen"/>sentments, but afterwards Indictments, and time allowed to the Kings Subjects to defend themselves, and the Accusers brought to the face of the Accused, and upon not making substantial proof of matters of Fact, the Kings accused Subjects are by the Judges and the Law discharged; but the said <hi>Jones</hi> and a multitude of his fel<g ref="char:EOLhyphen"/>low Protestants have not had such fair dealings in D. <hi>Pinfold</hi>'s Court, and therefore the said <hi>Jones</hi> hath cause to say, <hi>From such Courts, and such Proceedings Good Lord deliver us.</hi> And whereas the said <hi>Jones</hi> is informed that Sir <hi>George</hi> did reflect upon him for moving in the Kings Court of <hi>Common Pleas,</hi> before he came to move in the <hi>Kings Bench</hi> for a Prohibition, as being willing to have two strings to his Bow: the said <hi>Jones</hi> doth humbly de<g ref="char:EOLhyphen"/>sire Sir <hi>George</hi> to consider that it is every mans concern to do his best, and use the utmost means in a legal way to accomplish his relief; and the said <hi>Jones</hi> doth believe that if it had been his happiness to have engaged Sir <hi>George Jefferies</hi> as his Councel in this Case, it had not been lost for want of speaking to it, as it was by the si<g ref="char:EOLhyphen"/>lence of some Serjeants at Law, that were expected to make some Reply in that Case; and the Lord Chief
+<pb n="14" facs="tcp:175377:10"/>Justice <hi>Pemberton</hi> then sitting upon the Bench, was willing to hear a Reply. What was the cause of that si<g ref="char:EOLhyphen"/>lence, whether because they could not speak, or because they would not speak, or because they dared not to speak, or because they had not sufficient Fees to speak, Grandfather Time must shew. But whether because one Serjeant spoke so much, and others said nothing at all, Prohibitions were overthrown in <hi>West<g ref="char:EOLhyphen"/>minster-Hall,</hi> shall be left to consideration. However the said <hi>Jones</hi> saith, That he was encouraged to take this way, because divers of the Kings Subjects have thereby had relief formerly, from the power of the Ec<g ref="char:EOLhyphen"/>clesiastical Courts, who were under the same circumstances, and therefore the said <hi>Jones</hi> doth humbly pray Sir <hi>George Jefferies</hi> to consider, that not every Cause he hath managed, either for the Plaintiff or Defendant, hath gone currant before the Judges in <hi>Westminster-Hall;</hi> which is a sufficient evidence that either the Cause undertaken, was not right, or else that Sir <hi>George</hi>'s Clients had some wrong; and therefore no marvel if one or other of these things have attended poor <hi>Jones,</hi> and others, who have proceeded by the Advice of the Learned in the Law: however, this little Victory over <hi>Jones,</hi> and his fellow. Protestants, gave occasion to Dr. <hi>Pinfold</hi> to rejoyce, and boast and glory that night at <hi>Doctors-Commons,</hi> as if his cause were fifty in the hundred the better for that days work; but it is humbly desired by the said <hi>Jones,</hi> that the Doctor would seriously con<g ref="char:EOLhyphen"/>sider that Saying in a good old Book, called <hi>The Holy Bible, Let not him that girdeth on his harness, boast himself as he that putteth it off,</hi> 1 Kings 20.11.</p>
+               <p>Furthermore, The said <hi>Jones</hi> doth certifie D. <hi>Pinfold,</hi> and all others concerned, That he hath a love to, and a reverent Esteem of the Holy Sacrament, called in Holy Scripture, <hi>The Supper of the Lord,</hi> and hath solemnly, as becometh a Christian, Taken the said Holy Ordinance divers times within the time mentioned in the afore<g ref="char:EOLhyphen"/>said presentment, and divers times since the aforesaid Admonition, and that in both kinds, of Bread and Wine, in such manner, and to such ends, as is expressed in the Statute of 1 <hi>Edw.</hi> VI. <hi>c</hi> 1. in these words, <hi>Parag.</hi> 1.</p>
+               <p>
+                  <q>
+                     <hi>Which Sacrament was instituted of no less Author than our Saviour, both God and Man, when at his last Supper amongst his Apostles, he did take the Bread into his holy hands, and did say,</hi> Take, Eat, this is my Body, which is given and broken for you: <hi>and taking up the Cha<g ref="char:EOLhyphen"/>lice of Cup, did give thanks, and say,</hi> This is my Blood of the New Testament, which is shed for you, and for many, for the Remission of Sins; <hi>that whensoever we should do the same, we should do it in Remembrance of him, and to declare and set forth his Death and glorious Passi<g ref="char:EOLhyphen"/>on until his coming; of the which Bread whosoever eateth, or of the which Cup, whosoever drink<g ref="char:EOLhyphen"/>eth unworthily, eateth and drinketh Condemnation and Judgment to himself.</hi>
+                  </q> And in <hi>Paragr.</hi> 7. there are these Words;</p>
+               <q>
+                  <p>
+                     <hi>Therefore be it Enacted by our Sovereign Lord the King, with the consent of the Lords Spiritual and Temporal, and the Commons, in this present Parliament Assembled, and by Authority of the same, that the said most Blessed Sacrament be hereafter commonly delivered and administred unto the people within this Church of</hi> England <hi>and</hi> Ireland, <hi>and other the Kings Dominions, under both the kinds, that is to say, of Bread and Wine, except necessity otherwise require: and also that the Priest which shall minister the same, shall at the least one day before, exhort all persons which shall be present, to resort and prepare themselves to receive the same; and when the prefixed day cometh, after a godly Exhorrtation by the Minister made, wherein shall he further expressed the benefit &amp; comfort promised to them which worthily receive the holy Sacra<g ref="char:EOLhyphen"/>ment, &amp; danger &amp; indignation of Almighty God threatned to them which shall presume to receive the same unworthily, to the end that every man may try and examine his own Conscience before he shall receive the same. The said Minister shall not without a lawful cause, deny the same to any person that will devoutly and humbly desire it; any Law, Statute, Ordinance or Custom, contrary thereunto in any wise notwithstanding, not condemning hereby the usage of any Church out of the Kings Majesties Dominions.</hi>
+                  </p>
+               </q>
+               <p>But it is supposed, that D. <hi>Pinfold</hi> will say, That the said <hi>Jones</hi> hath not taken the said Sacrament in his own Parish Church, according to the Admonition, at the time therein prefixed by the said Doctor: Unto which, the said <hi>Jones</hi> doth soberly reply, That he doth not know of any Statute Law that impowereth the Doctor thus to proceed, or that bindeth the said <hi>Jones</hi> to obey; and is much more sure, that there is no Law of Jesus Christ in all the New Testament for such proceedings; however the said <hi>Jones</hi> saith, That he hath taken the holy Communion in such a Church as is declared and owned in the 19th. Article of the Church of <hi>England,</hi> viz. <hi>That the Visible Church of Christ is a Company of faithful men, in which the pure Word of God is Preached, and the Sacraments be duly Administred, according to Christs Ordinance, in all things that of Necessity are requisite to the same.</hi>
+               </p>
+               <p>And the said <hi>Jones</hi> saith, That himself, and a vast number of his Majesties Protestant Subjects do exercise a godly Care, and maketh great Conscience to wait upon God, in no other Assemblies than is expressed in the aforesaid Article, <hi>viz. A Company of faithful people that have the pure Word of God truly preached, and the Ordinances of God duly administred.</hi>
+               </p>
+               <p>But it may be the Doctor will say, That <hi>Jones</hi> meaneth the Assembly of Dissenters. To which <hi>Jones</hi> doth reply, That he honestly meaneth no other Assemblies but such where Christ is preached, as he is declared in the holy Gospel: 1. As God and Man. 2. As being conceived in the Virgins Womb, by the Holy Ghost, and so brought forth into the world to be the Saviour of Sinners. 3. His Death as the Satisfaction of Divine Justice. 4. His Resurrection, for the Justification of all true Believers. 5. His Ascension into Heaven, and making Intercession at the right hand of God, that so the Godly may be accepted of God, and be received into Heaven. 6. The Second Coming of Christ to Judge the quick and the dead; at which time of Judgment, he will receive the Righteous into eternal Happiness, and send the Wicked into eternal Misery, after the Re<g ref="char:EOLhyphen"/>surrection of the just and unjust. And as touching the holy Sacraments, the aforesaid Assemblies do profess Water Baptism, as Gods holy Ordinance, and the Lords Supper in both kinds, of Bread and Wine, as a holy Remembrance of Christs Death till he come again; as it is expressed in the holy Scripture, and in the fore<g ref="char:EOLhyphen"/>mentioned Statute of 1 <hi>Edw.</hi> VI. <hi>ch.</hi> 1. Which Statute doth not compel any of the Kings Subjects to come to that blessed Ordinance to the damage of their own Souls, but strictly warneth to the contrary, and requireth persons to come humbly and devoutly, of their own desire.</p>
+               <pb n="15" facs="tcp:175377:10"/>
+               <p> Now therefore why the said <hi>Jones,</hi> or any other of the Kings Protestant Subjects should be prosecuted to the suffering Imprisonment for not taking the Sacrament in their respective parish Churches, who are zea<g ref="char:EOLhyphen"/>lous for the holy Sacrament, and other parts of the Protestant Religion, in such Assemblies as are for higher degrees of Reformation than is among the common Protestants, it is humbly presented to Dr. <hi>Pinfold,</hi> and all others called Doctors and Judges, in Courts called Spiritual, whether they can produce any such Authority from Jesus Christ, who is the Spiritual Governor in his Church, and hath given Spiritual Laws for the Government thereof.</p>
+               <p>The said <hi>Jones</hi> saith, he hath carefully read the Holy Scriptures for many years, and could never find that ever Christ did set up such a way of Government in his Church, <hi>viz.</hi> of Fines, Imprisonments, Banishment, or any other Corporal Punishment, to bring persons to conform unto his Gospel-Ordinances; but Christ's way was to afford plain and powerful preaching of his Word, to enlighten the Mind, and perswade the Soul to make a free choice of his Truths, from a cordial love to himself: But according to the Proceedings of Dr. <hi>Pinfold,</hi> and other Ecclesiastical Judges, such as are conscienciously afraid they shall miss the Comforts and blessed Benefits of the Sacrament, by coming to it at such times and places, with such Communicants, as imposed by the said Doctor, must be contented with the Discomforts of a Jayl, or else pay great Sums of Money to get off.</p>
+               <p>And whereas the said Doctor did declare in the publick Assembly of <hi>Doctors Commons,</hi> that he fixed the taking of the Sacrament in his Admonitions, that thereby the people might give a full demonstration of being true Protestants; it is humbly desired that the Doctor would consider, whether too many, who ven<g ref="char:EOLhyphen"/>ture upon the Sacrament, are not a great Scandal to the Protestant Religion, by wicked conversations, in Swearing, Drinking, Cursing;, and calling upon God to damn them? And the said <hi>Jones</hi> doth heartily desire that the men of <hi>Doctors Commons</hi> were quite freed from all these Sins, the least of which is enough for Damnation, and that is ten thousand times worse than Excommunication; however, it may be soberly and safely concluded, that such persons are very unfit to drive others to the Sacrament, or punish them for not running so headlong as they would have them unto such an holy Ordinance of God.</p>
+               <p>And besides all the former Relation, the said <hi>Jones</hi> saith, That upon the seventh of <hi>February,</hi> he went again to the Registers Office, belonging to the Ecclesiastical Court, and there demanded a Copy of his Excom<g ref="char:EOLhyphen"/>munication, and all other Proceedings of the Court, but the chief Register was very angry because those things had been bespoke so long before, and were not fetch'd away, and reflected upon <hi>Jones</hi> as if he had not done honestly; unto which <hi>Jones</hi> replyed saying, Sir, I suppose you do not know that I have been more times for these papers, than I was bound to come, and could not have them, however if they are done, let me have them, and my money is ready for you. Upon this great search was made to find the papers, but the Clerks could not find them, nor the Register neither, but one put it off to another, as being mislaid. <hi>Jones</hi> see<g ref="char:EOLhyphen"/>ing them in confusion, thought they might better find them in his absence, and therefore told them he would go to some house hard by, and come again; and about an hour after, <hi>Jones</hi> returned to the Office, but they were not found: notwithstanding all this, <hi>Jones</hi> was so fair as to give them till the Afternoon, and the Under-Register did promise that the Papers should be sent by their Officer who brought the Citation; so the said <hi>Jones</hi> went away in farther exercise of Patience, but the Papers did not come all that day. <hi>Jones</hi> waited for them all the next day, till near night, and because they were not sent, he went and made <hi>Affi<g ref="char:EOLhyphen"/>davit</hi> before a Judge, that he had been four several times at the Registers, to have a Copy of his Excom<g ref="char:EOLhyphen"/>munication, and all other Proceedings of the Ecclesiastical Court, but could not have them, though he of<g ref="char:EOLhyphen"/>fered payment, and to leave part of payment in hand; and about an hour after the said <hi>Jones</hi> had been at home, the said Papers wer sent to his House, <hi>viz.</hi> about Seven a Clock at night, with a Note from one of the Clerks, to pay thirteen shillings and four pence for them, which was paid and sent back by the Messenger that brought them. Now the honest Design of <hi>Jones</hi> in thus labouring to have such Papers, was to see whe<g ref="char:EOLhyphen"/>ther any thing, as matter of Law, might arise from them, fit for the consideration of the honourable Judges, whereby the said <hi>Jones</hi> might have some legal relief; but now the Term was very near expiring, and not sufficient time to consult with those Learned in the Law, to make any Progress, and so the said <hi>Jones</hi> remained in the Exercise of Patience.</p>
+               <p>But Dr <hi>Pinfold</hi> went on to finish his work, and to perform his word to the said <hi>Jones, viz.</hi> that he should be laid up in a Jayl, if he did not come to Church, and take the Sacrament, according to his Admonition; for in the close of the Term, the said Spiritual Doctor did procure several Writs of <hi>Excommunicato capiendo</hi> from the Temporal Power, to apprehend a great number of the Kings Protestant Subjects, and substantial Citi<g ref="char:EOLhyphen"/>zens of <hi>London,</hi> and to carry them to Prison for not obeying his Admonitions, and thereby separate Husbands from Wives, Parents from Children, Masters from Servants, besides hindring many Persons from managing their honest and lawful Trades and Callings, to the damage of many good Families, the whole of which pu<g ref="char:EOLhyphen"/>nishment the said <hi>Jones</hi> doth hope he shall bear with patience, as the Providence of God shall suffer it to come upon him, being well satisfied that Loyalty and Christianity will keep him company, when in a Jayl for Non-Conformity.</p>
+               <p>And now the said <hi>Jones</hi> doth think it may be of some advantage to his fellow-Protestants, that they be acquainted with the several ways allowed and practised by Dr. <hi>Pinfold,</hi> for obtaining an Absolution, and so be discharged from the Writ <hi>Excommunicato capiendo,</hi> after it is out against, and served upon them.</p>
+               <p n="1">I. Such Persons may be absolved and discharged from the said Writ if they will pay all the Charges of the Court, which is sometimes Ordinary, and sometimes Extraodinary; the Ordinary Charges is about forty shillings, but according as matters have been managed between the Prosecuted Party and the said Doctor, the Charges by the Doctors Bill may amount to five or six Pounds, or more. And besides the payment of such Charges, the Party must deposit Ten Pound, or other such Sum as the Doctor will impose, and subscribe that the said Sum of Money shall be forfeited and disposed of as the said Doctor shall think meet, <hi>viz.</hi> If the Par<g ref="char:EOLhyphen"/>ty do not come to Church and take the Sacrament at such times as the Doctor will appoint; at which instant, <hi>viz.</hi> when the money is tendred down, he giveth his Admonition so to do.</p>
+               <p n="2">II. Another way to be absolved and discharged from the said Writ, is, to pay the aforesaid Bill of Charges, and take an Oath to conform, <hi>viz. You shall swear that you will obey all the Kings Ecclesiastical Laws, and the Law<g ref="char:EOLhyphen"/>ful Commands of your Ordinary.</hi>
+               </p>
+               <p>Now such as think to deliver themselves this way, had best in the first place, get a true Understanding of the Ecclesiastical Laws, what they are, and what are the lawful Commands of the Ordinary, lest they should swear to such things as may be against their Consciences, and so be under a force either to sin by
+<pb n="16" facs="tcp:175377:11"/>keeping the Oath, or else to sin by breaking the Oath, which if the latter, they must expect to hear of it from D. <hi>Pinfold</hi> with both their Ears.</p>
+               <p n="3">III. Another way of Deliverance is to give Bond to Dr. <hi>Pinfold,</hi> to conform by such a time as shall be agreed with the said Doctor, or else to forfeit the Sum of Money expressed in the said Bond, which for<g ref="char:EOLhyphen"/>merly was used to be but Ten Pound, but now the said Doctor doth require a Bond of Thirty Pounds; and besides this, the aforesaid Bill of Charges must be presently paid, and at the Sealing and Delivering of the aforesaid Bond, the said Doctor will admonish the Party to come to Church, and receive the Sa<g ref="char:EOLhyphen"/>crament according to the time of the Bond. The Condition of which Bond take as followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <p>
+                              <hi>THe Condition of this Obligation is such, That whereas the above bounden</hi> A. B. <hi>was on the</hi> 27th. <hi>day of</hi> November <hi>last, Presented by</hi> C. D. <hi>and</hi> E. F. <hi>Church-Wardens of the said Parish-Church of St.</hi> G. <hi>without</hi> H, <hi>aforesaid, be<g ref="char:EOLhyphen"/>fore the Arch-Deacon of</hi> London, <hi>or his Official, for not duly Frequenting his Parish-Church for six Months last past, and for not Receiving the Holy Sacrament of the Lords Supper within the said time; and being duly Cited to An<g ref="char:EOLhyphen"/>swer the said Presentment, and thereupon indicially Admonished to receive the Holy Sacrament of the Lords Supper in his said Parish-Church, and not obeying the said Monition, was thereupon pronounced in Contempt, and in pain of such his Con<g ref="char:EOLhyphen"/>tempt duly Excommunicated; And whereas the said</hi> A. B. <hi>hath submitted himself to the jurisdiction of the said Arch-Dea<g ref="char:EOLhyphen"/>cons Court, and prayed to be Absolved from the said Excommunication, and offered Caution to be obedient to his Majesties Ecclesiastical Laws, and the Lawful Commands of his Ordinary: If therefore the said</hi> A. B. <hi>shall obey His Majesties Eccle<g ref="char:EOLhyphen"/>siastical Laws, and the Lawful Commands of his Ordinary, Then this Obligation to be void and of none effect, or else to re<g ref="char:EOLhyphen"/>main and be in full Force and Vertue.</hi>
+                           </p>
+                           <closer>
+                              <signed>Signed, Sealed and Delivered in the Presence of us, <hi>&amp;c.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Now whether this and such like Bonds can be legally Sued to recover the Penalty thereof, very Wise and Understanding men are of differing minds about it; however several Persons are in the ready way to know the certain Truth hereof in a short time.</p>
+               <p>And besides all this, there are other ways for deliverance by the Common and Statute Law, before the Kings Judges, according as the Case may be allowable by Law; and some are not without hopes of re<g ref="char:EOLhyphen"/>lief this way, with the expence of Money.</p>
+               <p>And as the said <hi>Jones</hi> is not willing to be imposed upon by others, so he will not impose upon others, but will freely and friendly leave all his fellow-Protestants to take that way, and use that means for their help, as is most agreeable to their Circumstances, and satisfactory to their own Minds, in the keeping of a good Conscience, humbly desiring it may be seriously considered, that it is better to be punished in their Purses, than in their Spirits; and be dammaged in their Coffers, rather than in their Consciences: and let it also be considered, <hi>Whether these and other distressing Proceedings be not some Cause of stopping the Silver Streams in the Golden Street of this Great and Loyal City of</hi> London.</p>
+               <p>And now at last the said <hi>Iones</hi> is willing to leave a few refreshing Considerations for the Comfort of his Fellow distressed Protestants.</p>
+               <p n="1">I. Consider that His Majesty has been Graciously pleased to relieve his Distressed Dissenting Subjects di<g ref="char:EOLhyphen"/>vers times when they have been violently prosecuted by several Laws, under which they have groaned: and hath favoured them with the Exercise of Religion according to their own Consciences, approving of this as the best way to quiet the Minds of his Liege People, and promote Trade for the Good of the Kingdom, as may be seen at large in His Majesties Declaration, Published by the Advice of His Privy Councel, <hi>March</hi> 15. 1671.</p>
+               <p n="2">II. Consider, That the Lords Spiritual and Lords Temporal, and the Commons of <hi>England</hi> Assembled in Parliament, provided a Bill to discharge the Kings Protestant Subjects from the Penalties of the 35th. of <hi>Elizabeth,</hi> but it unhappily missed of coming to His Majesties Royal Hand for the Royal Assent, which was a bad <hi>Brown-</hi>Business: however both Houses of Parliament did their Part.</p>
+               <p n="3">III. Consider that the Commons of <hi>England</hi> Assembled in Parliament, have shewed a willingness to free His Majesties Subjects, considered as Protestant Dissenters, from all the Penal Statutes in Matters of Conscience.</p>
+               <p n="4">IV. Consider that what hath been done by the King and Parliament, distinct one from another, may be done by the King in Parliament, as a joint Act, which doubtless would be the Joy of the whole King<g ref="char:EOLhyphen"/>dom, and then would be a full and compleat fulfilling and performance of His Majesties Royal Promise in his Royal Declaration from <hi>Breda,</hi> just before His happy Restauration, in these following words,</p>
+               <q>
+                  <p>
+                     <hi>We do declare a Liberty to tender Consciences, and that no man shall be disquieted or cal<g ref="char:EOLhyphen"/>led in question for differences in Opinion in Matters of Religion, which do not disturb the peace of the Kingdom, and that we shall be ready to consent to such an Act of Parliament, as upon mature Deliberation shall be offered to Us, for the full granting that Indulgence.</hi>
+                  </p>
+               </q>
+               <p n="5">V. Consider all you that fear God, that Word of God in <hi>Isaiah</hi> 2.22. <hi>Cease ye from man, whose Breath is in his Nostrils; for wherein is he to be accounted of?</hi> Which sheweth man must not be depended on.</p>
+               <p n="6">VI. Consider of, and in all your distresses feed upon, and refresh your Souls with that Word of God, <hi>Isa.</hi> 12.5. <hi>For the Oppression of the Poor, and the Sighing of the Needy, now will I arise, saith the Lord, and set him in safety from him that puffeth at him.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>VATES ASTROLOGICƲS;</hi> or <hi>England</hi>'s ASTROLOGICAL PROPHET, foretelling what is likely to befal <hi>Great Britain</hi> and <hi>Ireland,</hi> particularly the Great and Famous City of <hi>LONDON;</hi> As also <hi>France, Hol<g ref="char:EOLhyphen"/>land, Spain, Germany,</hi> &amp;c. and indeed all <hi>EƲROPE;</hi> but more especially the See of <hi>ROME,</hi> for Twenty Years together, beginning <hi>March</hi> 10. 1683, and ending <hi>March</hi> 10. 1702. Likewise Astrological Judg<g ref="char:EOLhyphen"/>ments of the Effects of that famous Triple Conjunction of <hi>Saturn</hi> and <hi>Iupiter,</hi> being thrice repeated in that Regal Sign <hi>Leo,</hi> the great Dignities of the <hi>Sun</hi> and <hi>Iupiter:</hi> Also some Remarks upon the Eclipses, and more especially upon that great and famous visible Eclipse of the Sun, <hi>Iuly</hi> 2. 1684. With Twenty Years Predictions from some of the most eminent mutual Aspects of the Planets, and Eclipses of the Lu<g ref="char:EOLhyphen"/>minaries, and Annual Revolutions of the Sun. Here are also many Hieroglyphicks representing the fu<g ref="char:EOLhyphen"/>ture State and Changes of the World. To which is added a Treatise of the <hi>Pestilence,</hi> both for the Pre<g ref="char:EOLhyphen"/>vention and Cure thereof. By <hi>Richard Kirby,</hi> Student in Astrology and Physick.</p>
+            <p>The ROMISH MASS-BOOK faithfully Translated into <hi>English,</hi> with Notes and Observations thereupon, <hi>&amp;c.</hi> Both Printed for, and Sold by <hi>Tho. Malthus</hi> at the <hi>Sun</hi> in the <hi>Poultry,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
